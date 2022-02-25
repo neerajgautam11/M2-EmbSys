@@ -9,6 +9,9 @@ Codiga
 -------------------------------------------------------------
 ![Codiga Badge](https://api.codiga.io/project/31465/score/svg)
 ![Codiga Badge](https://api.codiga.io/project/31465/status/svg)
+
+[![CI](https://github.com/neerajgautam11/M2-EmbSys/actions/workflows/main.yml/badge.svg)](https://github.com/neerajgautam11/M2-EmbSys/actions/workflows/main.yml)
+
 # **Introduction:**
 
 The heating system is basically used to control the temperature. The user gets access to turn on the heater. The temperature sensor keeps monitoring the temperature and sends the analog value to the microcontroller. The microcontroller processes the analog input of the temperature sensor and outputs a temperature value through serial communication. All the activities of the activities of the control system are done on a microcontroller called Atmega328. The functionality of the heat control system is coded in embedded c and the working is demonstrated using simuation in a software called SimulIDE.
