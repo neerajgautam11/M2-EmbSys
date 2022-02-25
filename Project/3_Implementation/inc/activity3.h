@@ -1,5 +1,16 @@
 #ifndef __ACTIVITY_3_H__
 #define __ACTIVITY_3_H__
+/**
+ * @file activity1.h
+ * @author Neeraj Gautam
+ * @brief Header file for activity1
+ * @version 0.1
+ * @date 2022-02-26
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+
 
 /**
  * Macro Definitions
