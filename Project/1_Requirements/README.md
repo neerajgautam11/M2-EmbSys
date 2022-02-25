@@ -5,7 +5,6 @@ The heating system is basically used to control the temperature. The user gets a
 # **Research:**
 
 Seat warmers were first introduced by Cadillac in 1966 to help with backaches. Some vehicles come with car seat warmers, which heat up the seat with the push of a button. Normally the buttons are located on the side of the driver and passenger door. In some vehicles, just the bottom of the seat warms up, where in others both the bottom and back warm up.
-![button](https://user-images.githubusercontent.com/94435852/143817250-e4a4ee9b-8fa3-45e3-b9f0-4c4acedd167d.PNG)
 
 # **Benefits:**
 
