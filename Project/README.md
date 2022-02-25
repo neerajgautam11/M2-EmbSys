@@ -1,3 +1,14 @@
+# Seat Heating System
+Embedded C Project
+
+Codacy 
+-------------------------------------------------------------
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9f3c279bcb0f422481ba34c59d02c0ad)](https://www.codacy.com/gh/neerajgautam11/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=neerajgautam11/M2-EmbSys&amp;utm_campaign=Badge_Grade)
+
+Codiga
+-------------------------------------------------------------
+![Codiga Badge](https://api.codiga.io/project/31465/score/svg)
+![Codiga Badge](https://api.codiga.io/project/31465/status/svg)
 # **Introduction:**
 
 The heating system is basically used to control the temperature. The user gets access to turn on the heater. The temperature sensor keeps monitoring the temperature and sends the analog value to the microcontroller. The microcontroller processes the analog input of the temperature sensor and outputs a temperature value through serial communication. All the activities of the activities of the control system are done on a microcontroller called Atmega328. The functionality of the heat control system is coded in embedded c and the working is demonstrated using simuation in a software called SimulIDE.
