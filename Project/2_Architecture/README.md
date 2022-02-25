@@ -1,11 +1,10 @@
-## Structural Diagrams
----
-![images_(2) 1](https://user-images.githubusercontent.com/94213473/144032181-a919a511-12c6-4773-a59b-892cb15a7f2d.jpeg)
+# DESIGN:-
 
-## Behavioural Diagrams
----
-![images_(1) 1](https://user-images.githubusercontent.com/94213473/144034004-36e37ef4-1fc2-4385-8a75-ec43cc3819a5.png)
+# **Behavioral Diagram:**
+![behavioural diag of seat heating system](https://user-images.githubusercontent.com/94435852/143898803-e366a9e5-d529-44e6-8099-fc0feff8db1b.png)
 
-## Block Diagrams
----
-![downloadblock2](https://user-images.githubusercontent.com/94213473/144034851-3053d0b6-31b8-46e8-9880-0be2429864c9.png)
+# **Structural Diagram:**
+![structural diag of seat heating system](https://user-images.githubusercontent.com/94435852/143899016-552fb857-8f4c-4400-9090-d87af53bb08a.png)
+
+# **Block Diagram:**
+![block diagram](https://user-images.githubusercontent.com/94435852/143899302-d9f2f6db-ffa6-4d43-a2c1-94da451ec23b.jpeg)
