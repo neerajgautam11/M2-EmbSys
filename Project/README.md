@@ -1,5 +1,5 @@
 # Seat Heating System
-Embedded C Project
+Embedded C Mini Project
 
 Codacy 
 -------------------------------------------------------------
