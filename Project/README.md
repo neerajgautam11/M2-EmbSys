@@ -78,15 +78,13 @@ Heated seats can bring a lot of different benefits beyond just having a nice and
 **How:**
 The longer the seat cushion stays on, the hotter it gets. If it were to stay on for too long, it would get hot enough to become uncomfortable or even dangerous to sit in. It could even start a fire in the cushion. To prevent this, most car seat heaters have a thermostat. The thermostat measures the temperature in the cushion. When it reaches a certain temperature, the thermostat sends a signal, automatically turning off the relay until the seat cools down a bit. At that point, the thermostat turns the relay back on again. Many seat cushions also have “high” and “low” settings that let the driver control the temperature of the seat cushions.
 
-## Structural Diagrams
----
-![images_(2) 1](https://user-images.githubusercontent.com/94213473/144032181-a919a511-12c6-4773-a59b-892cb15a7f2d.jpeg)
+# DESIGN:-
 
-## Behavioural Diagrams
----
-![images_(1) 1](https://user-images.githubusercontent.com/94213473/144034004-36e37ef4-1fc2-4385-8a75-ec43cc3819a5.png)
+# **Behavioral Diagram:**
+![behavioural diag of seat heating system](https://user-images.githubusercontent.com/94435852/143898803-e366a9e5-d529-44e6-8099-fc0feff8db1b.png)
 
-## Block Diagrams
----
-![downloadblock2](https://user-images.githubusercontent.com/94213473/144034851-3053d0b6-31b8-46e8-9880-0be2429864c9.png)
+# **Structural Diagram:**
+![structural diag of seat heating system](https://user-images.githubusercontent.com/94435852/143899016-552fb857-8f4c-4400-9090-d87af53bb08a.png)
 
+# **Block Diagram:**
+![block diagram](https://user-images.githubusercontent.com/94435852/143899302-d9f2f6db-ffa6-4d43-a2c1-94da451ec23b.jpeg)
