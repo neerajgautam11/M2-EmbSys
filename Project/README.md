@@ -10,6 +10,8 @@ Codiga
 ![Codiga Badge](https://api.codiga.io/project/31465/score/svg)
 ![Codiga Badge](https://api.codiga.io/project/31465/status/svg)
 
+CI
+---------
 [![CI](https://github.com/neerajgautam11/M2-EmbSys/actions/workflows/main.yml/badge.svg)](https://github.com/neerajgautam11/M2-EmbSys/actions/workflows/main.yml)
 
 # **Introduction:**
