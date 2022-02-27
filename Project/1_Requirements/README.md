@@ -24,9 +24,11 @@ Heated seats can make cars much more comfortable in the winter, or for those who
 
 ## Software used
 
--SimulIDE
--GCC Compiler for AVR
--Code block
+- SimulIDE
+
+- GCC Compiler for AVR
+
+- VS Code
 
 
 ## Details requirements
