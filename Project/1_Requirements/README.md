@@ -22,6 +22,13 @@ Heated seats can make cars much more comfortable in the winter, or for those who
 - Heater core
 - Thermostat
 
+## Software used
+
+-SimulIDE
+-GCC Compiler for AVR
+-Code block
+
+
 ## Details requirements
 ### High Level Requirements:
 | ID | Description | Status |
